@@ -1,0 +1,42 @@
+{
+    "users": [
+        {
+            "name": "John",
+            "id": "100001",
+            "clockedStatus": false,
+            "hourBreak": 1,
+            "smallBreak": 2,
+            "totalMinutes": 0,
+            "pin": "123456"
+        },
+        {
+            "name": "Bubba",
+            "id": "100002",
+            "clockedStatus": false,
+            "hourBreak": 1,
+            "smallBreak": 2,
+            "totalMinutes": 0,
+            "pin": "123456"
+        },
+        {
+            "name": "Mr. Gonzales",
+            "id": "100003",
+            "clockedStatus": false,
+            "hourBreak": 1,
+            "smallBreak": 2,
+            "totalMinutes": 0,
+            "pin": "123456"
+        },
+        {
+            "name": "Kali",
+            "id": "100004",
+            "clockedStatus": false,
+            "hourBreak": 1,
+            "smallBreak": 2,
+            "totalMinutes": 0,
+            "pin": "123456"
+        }
+
+
+    ]
+}
